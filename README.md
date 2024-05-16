@@ -22,4 +22,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Setup
+
+- Before starting the project please add .env file and add following variables in to it.
+
+  -     REACT_APP_FIREBASE_API_KEY
+  -     REACT_APP_FIREBASE_AUTH_DOMAIN
+  -     REACT_APP_FIREBASE_PROJECT_ID
+  -     REACT_APP_FIREBASE_STORAGE_BUCKET
+  -     REACT_APP_FIREBASE_MESSAGEING_SENDER_ID
+  -     REACT_APP_FIREBASE_APP_ID
+  -     REACT_APP_FIREBASE_MEASUREMENT_ID
